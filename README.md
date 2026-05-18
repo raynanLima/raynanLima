@@ -15,6 +15,6 @@ Connect with me 👇🏻:
 <br>
 <a href="https://www.instagram.com/_raynanlima?igsh=MTVzOHhmenRrZmM5bw==" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" alt="Instagram">
-</a> &nbsp;<a href="www.linkedin.com/in/raynanlima" target="_blank">
+</a> &nbsp;<a href="https://www.linkedin.com/in/raynanlima" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn">
 </a>
